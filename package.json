@@ -1,0 +1,24 @@
+{
+  "name": "commitizen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanCarrasco/commitizen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordanCarrasco/commitizen/issues"
+  },
+  "homepage": "https://github.com/jordanCarrasco/commitizen#readme",
+  "config": {
+    "cz-customizable": {
+      "config": "test.js"
+    }
+   }
+}
