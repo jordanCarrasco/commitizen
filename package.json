@@ -15,10 +15,5 @@
   "bugs": {
     "url": "https://github.com/jordanCarrasco/commitizen/issues"
   },
-  "homepage": "https://github.com/jordanCarrasco/commitizen#readme",
-  "config": {
-    "cz-customizable": {
-      "config": "test.js"
-    }
-   }
+  "homepage": "https://github.com/jordanCarrasco/commitizen#readme"
 }
